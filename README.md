@@ -9,4 +9,7 @@ The notebook includes:
 - Visualization of descent trajectory
 - Fuel and velocity computations
 
+# Demo
+![Lunar Landing Demo](Landing.gif)
+
 
